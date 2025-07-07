@@ -821,7 +821,7 @@ export default function GPXMergerOnline() {
                 <Button
                   onClick={() =>
                     window.open(
-                      "https://www.paypal.com/donate/?business=YOUR_PAYPAL_EMAIL&no_recurring=0&currency_code=USD",
+                      "https://www.paypal.com/donate/?hosted_button_id=PLZV3M8MUM35U",
                       "_blank",
                     )
                   }
@@ -832,7 +832,7 @@ export default function GPXMergerOnline() {
                   Donate via PayPal
                 </Button>
                 <Button
-                  onClick={() => window.open("https://www.buymeacoffee.com/gpxmergeronline", "_blank")}
+                  onClick={() => window.open("https://coff.ee/gpx_merge", "_blank")}
                   className="bg-gradient-to-r from-amber-600 via-orange-600 to-red-600 hover:from-amber-700 hover:via-orange-700 hover:to-red-700 text-white font-bold px-8 py-4 rounded-xl shadow-xl hover:shadow-2xl hover:shadow-amber-500/30 transition-all duration-300 transform hover:scale-105 border border-amber-500/30"
                   size="lg"
                 >
