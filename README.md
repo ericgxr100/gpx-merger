@@ -37,21 +37,6 @@
 
 ---
 
-## 📂 Project Structure
-
-```
-/
-├── public/            # Static files
-├── src/
-│   ├── components/    # React components
-│   ├── utils/         # GPX handling logic
-│   └── App.jsx        # Main app component
-├── package.json
-└── README.md
-```
-
----
-
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
