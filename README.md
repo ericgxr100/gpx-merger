@@ -31,7 +31,6 @@
 
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [v0.dev](https://v0.dev) (for interface generation)
 - [FileReader API](https://developer.mozilla.org/en-US/docs/Web/API/FileReader)
 - [XML DOMParser](https://developer.mozilla.org/en-US/docs/Web/API/DOMParser) (for reading and merging GPX files)
 
